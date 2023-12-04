@@ -1,3 +1,6 @@
 [submodule "src/evmone"]
 	path = src/evmone
 	url = https://github.com/qtumproject/qtum-evmone
+[submodule "src/leveldb"]
+	path = src/leveldb
+	url = https://github.com/google/leveldb
