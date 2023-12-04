@@ -1,1 +1,3 @@
 src/clientversion.cpp export-subst
+*.sh linguist-detectable=False 
+*.py linguist-detectable=False
