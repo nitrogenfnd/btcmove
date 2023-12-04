@@ -10,3 +10,6 @@
 [submodule "src/minisketch"]
 	path = src/minisketch
 	url = https://github.com/sipa/minisketch
+[submodule "src/libff"]
+	path = src/libff
+	url = https://github.com/scipr-lab/libff
